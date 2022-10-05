@@ -18,10 +18,10 @@
 ---
 
 ### :man_technologist: About Me :
-I am a computer science undergrad <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am currently pursuing computer science engineering.  
 - :telescope: I have keen interest in ios development & cloud computing.
 
-- :zap: In my leisure time, I publish technical blogs.
+- :zap: In my leisure time, I publish technical blogs.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ujjwal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iamujjwalrawat/)
 <br>
