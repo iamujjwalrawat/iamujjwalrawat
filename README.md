@@ -11,8 +11,9 @@
   <img src="https://media.giphy.com/media/wwIdHyV4pMb1LrDwfF/giphy.gif" width="200"/>
 </h1>
 <br>
-<div align="center">
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="400"/>
+<div align = "center">
+  <a href = "https://github.com/codelalit007/">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamujjwalrawat&show_icons=true&count_private=true&hide_title=true&include_all_commits=true&theme=react" alt="GitHub stats"  height="200px"/></a>
 </div>
 <br>
 ---
